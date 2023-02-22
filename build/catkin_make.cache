@@ -1,0 +1,2 @@
+VIO:get_rc_att:offboard_class_timer:publish_attitude_control:test
+-DCATKIN_DEVEL_PREFIX=/home/levelmoon/SLAM/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/levelmoon/SLAM/catkin_ws/install -G Unix Makefiles

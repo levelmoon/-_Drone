@@ -1,0 +1,8 @@
+prefix=/home/levelmoon/SLAM/catkin_ws/devel
+
+Name: offboard_class_timer
+Description: Description of offboard_class_timer
+Version: 0.0.0
+Cflags: -I/home/levelmoon/SLAM/catkin_ws/src/offboard_class_timer/include
+Libs: -L${prefix}/lib -loffboard_class_timer
+Requires: geometry_msgs mavros roscpp std_msgs

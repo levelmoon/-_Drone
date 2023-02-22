@@ -1,0 +1,8 @@
+prefix=/home/levelmoon/SLAM/catkin_ws/install
+
+Name: test
+Description: Description of test
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -ltest
+Requires: geometry_msgs mavros_msgs roscpp std_msgs

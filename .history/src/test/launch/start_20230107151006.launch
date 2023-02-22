@@ -1,0 +1,4 @@
+<launch>
+  <!-- <include file="$(find realsense2_camera)/launch/rs_t265.launch"/> -->
+  <node name="circular" pkg="test" type="circular"  required="true" />
+</launch>

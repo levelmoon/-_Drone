@@ -1,0 +1,4 @@
+<launch>
+  <!-- <include file="$(find realsense2_camera)/launch/rs_t265.launch"/> -->
+  <node name="offboard_class_timer_node" pkg="offboard_class_timer" type="offboard_class_timer_node"  required="true" />
+</launch>

@@ -1,0 +1,8 @@
+prefix=/home/levelmoon/SLAM/catkin_ws/devel
+
+Name: publish_attitude_control
+Description: Description of publish_attitude_control
+Version: 0.0.0
+Cflags: -I/home/levelmoon/SLAM/catkin_ws/src/publish_attitude_control/include
+Libs: -L${prefix}/lib -lpublish_attitude_control
+Requires: geometry_msgs mavros roscpp std_msgs

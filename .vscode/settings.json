@@ -1,0 +1,30 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "optional": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "ratio": "cpp",
+        "system_error": "cpp",
+        "array": "cpp",
+        "functional": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "variant": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "cstddef": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "limits": "cpp",
+        "memory": "cpp",
+        "new": "cpp",
+        "bit": "cpp"
+    },
+    "python.autoComplete.extraPaths": [
+        "/home/levelmoon/SLAM/Prometheus-main/devel/lib/python3/dist-packages",
+        "/home/levelmoon/SLAM/Fast-Drone-250-master/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}

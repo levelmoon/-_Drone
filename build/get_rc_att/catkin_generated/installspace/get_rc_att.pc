@@ -1,0 +1,8 @@
+prefix=/home/levelmoon/SLAM/catkin_ws/install
+
+Name: get_rc_att
+Description: Description of get_rc_att
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lget_rc_att
+Requires: geometry_msgs mavros roscpp std_msgs

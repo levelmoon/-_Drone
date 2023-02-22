@@ -1,0 +1,41 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/levelmoon/SLAM/Prometheus-main/devel/include/**",
+        "/home/levelmoon/SLAM/Fast-Drone-250-master/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/levelmoon/SLAM/Fast-Drone-250-master/src/planner/bspline_opt/include/**",
+        "/home/levelmoon/SLAM/Fast-Drone-250-master/src/realflight_modules/VINS-Fusion/camera_models/include/**",
+        "/home/levelmoon/SLAM/Fast-Drone-250-master/src/utils/DecompROS/decomp_ros_utils/include/**",
+        "/home/levelmoon/SLAM/Fast-Drone-250-master/src/planner/drone_detect/include/**",
+        "/home/levelmoon/SLAM/Fast-Drone-250-master/src/planner/plan_manage/include/**",
+        "/home/levelmoon/SLAM/catkin_ws/src/get_rc_att/include/**",
+        "/home/levelmoon/SLAM/Fast-Drone-250-master/src/uav_simulator/mockamap/include/**",
+        "/home/levelmoon/SLAM/Fast-Drone-250-master/src/planner/path_searching/include/**",
+        "/home/levelmoon/SLAM/Fast-Drone-250-master/src/planner/plan_env/include/**",
+        "/home/levelmoon/SLAM/Fast-Drone-250-master/src/utils/pose_utils/include/**",
+        "/home/levelmoon/SLAM/Prometheus-main/Simulator/gazebo_simulator/include/**",
+        "/home/levelmoon/SLAM/Prometheus-main/Modules/uav_control/include/**",
+        "/home/levelmoon/SLAM/catkin_ws/src/VIO/include/**",
+        "/home/levelmoon/SLAM/Fast-Drone-250-master/src/realflight_modules/realsense-ros/realsense2_camera/include/**",
+        "/home/levelmoon/SLAM/Fast-Drone-250-master/src/uav_simulator/so3_control/include/**",
+        "/home/levelmoon/SLAM/Fast-Drone-250-master/src/uav_simulator/so3_quadrotor_simulator/include/**",
+        "/home/levelmoon/SLAM/catkin_ws/src/test/include/**",
+        "/home/levelmoon/SLAM/Fast-Drone-250-master/src/planner/traj_utils/include/**",
+        "/home/levelmoon/SLAM/Fast-Drone-250-master/src/utils/uav_utils/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

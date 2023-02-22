@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/levelmoon/SLAM/catkin_ws/devel/setup.sh

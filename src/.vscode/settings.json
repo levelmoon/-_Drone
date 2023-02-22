@@ -1,0 +1,7 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/levelmoon/SLAM/Prometheus-main/devel/lib/python3/dist-packages",
+        "/home/levelmoon/SLAM/Fast-Drone-250-master/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}
